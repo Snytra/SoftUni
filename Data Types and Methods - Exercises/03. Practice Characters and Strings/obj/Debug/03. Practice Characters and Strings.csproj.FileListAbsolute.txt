@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Characters and Strings\bin\Debug\_03.Practice_Characters_and_Strings.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Characters and Strings\obj\Debug\03. Practice Characters and Strings.csprojResolveAssemblyReference.cache
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Characters and Strings\bin\Debug\_03.Practice_Characters_and_Strings.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Characters and Strings\bin\Debug\_03.Practice_Characters_and_Strings.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Characters and Strings\obj\Debug\_03.Practice_Characters_and_Strings.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\03. Practice Characters and Strings\obj\Debug\_03.Practice_Characters_and_Strings.pdb

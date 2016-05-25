@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\bin\Debug\_8.Employee_Data.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\bin\Debug\_8.Employee_Data.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\bin\Debug\_8.Employee_Data.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\obj\Debug\_8.Employee_Data.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\obj\Debug\_8.Employee_Data.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\obj\Debug\8. Employee Data.csprojResolveAssemblyReference.cache

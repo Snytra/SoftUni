@@ -1,0 +1,5 @@
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.pdb

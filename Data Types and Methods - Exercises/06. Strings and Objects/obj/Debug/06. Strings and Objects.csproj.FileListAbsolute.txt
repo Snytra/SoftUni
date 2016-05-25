@@ -1,0 +1,5 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Data Types and Methods - Exercises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

@@ -1,0 +1,3 @@
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\bin\Debug\_8.Employee_Data.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\obj\Debug\_8.Employee_Data.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\8. Employee Data\obj\Debug\_8.Employee_Data.pdb

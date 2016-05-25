@@ -1,0 +1,5 @@
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Data Types and Methods - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb
