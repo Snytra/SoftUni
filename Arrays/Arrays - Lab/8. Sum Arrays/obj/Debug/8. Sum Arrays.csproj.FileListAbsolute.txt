@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\8. Sum Arrays\bin\Debug\_8.Sum_Arrays.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\8. Sum Arrays\obj\Debug\8. Sum Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\8. Sum Arrays\bin\Debug\_8.Sum_Arrays.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\8. Sum Arrays\bin\Debug\_8.Sum_Arrays.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\8. Sum Arrays\obj\Debug\_8.Sum_Arrays.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\8. Sum Arrays\obj\Debug\_8.Sum_Arrays.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\7. Reverse an Array of Strings\bin\Debug\_7.Reverse_an_Array_of_Strings.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\7. Reverse an Array of Strings\bin\Debug\_7.Reverse_an_Array_of_Strings.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\7. Reverse an Array of Strings\bin\Debug\_7.Reverse_an_Array_of_Strings.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\7. Reverse an Array of Strings\obj\Debug\_7.Reverse_an_Array_of_Strings.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\7. Reverse an Array of Strings\obj\Debug\_7.Reverse_an_Array_of_Strings.pdb

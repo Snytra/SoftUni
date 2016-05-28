@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\9. Condense Array to Number\bin\Debug\_9.Condense_Array_to_Number.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\9. Condense Array to Number\bin\Debug\_9.Condense_Array_to_Number.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\9. Condense Array to Number\bin\Debug\_9.Condense_Array_to_Number.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\9. Condense Array to Number\obj\Debug\9. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\9. Condense Array to Number\obj\Debug\_9.Condense_Array_to_Number.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\9. Condense Array to Number\obj\Debug\_9.Condense_Array_to_Number.pdb

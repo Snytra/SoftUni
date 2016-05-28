@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\6. Rounding Numbers Away from Zero\bin\Debug\_6.Rounding_Numbers_Away_from_Zero.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\6. Rounding Numbers Away from Zero\bin\Debug\_6.Rounding_Numbers_Away_from_Zero.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\6. Rounding Numbers Away from Zero\bin\Debug\_6.Rounding_Numbers_Away_from_Zero.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\6. Rounding Numbers Away from Zero\obj\Debug\6. Rounding Numbers Away from Zero.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\6. Rounding Numbers Away from Zero\obj\Debug\_6.Rounding_Numbers_Away_from_Zero.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\6. Rounding Numbers Away from Zero\obj\Debug\_6.Rounding_Numbers_Away_from_Zero.pdb
