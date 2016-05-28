@@ -1,0 +1,5 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\2. Reverse an Array of Integers\bin\Debug\_2.Reverse_an_Array_of_Integers.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\2. Reverse an Array of Integers\bin\Debug\_2.Reverse_an_Array_of_Integers.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\2. Reverse an Array of Integers\bin\Debug\_2.Reverse_an_Array_of_Integers.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\2. Reverse an Array of Integers\obj\Debug\_2.Reverse_an_Array_of_Integers.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\2. Reverse an Array of Integers\obj\Debug\_2.Reverse_an_Array_of_Integers.pdb

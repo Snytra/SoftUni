@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\1. Day of Week\bin\Debug\_1.Day_of_Week.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\1. Day of Week\bin\Debug\_1.Day_of_Week.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\1. Day of Week\bin\Debug\_1.Day_of_Week.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\1. Day of Week\obj\Debug\1. Day of Week.csprojResolveAssemblyReference.cache
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\1. Day of Week\obj\Debug\_1.Day_of_Week.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\1. Day of Week\obj\Debug\_1.Day_of_Week.pdb

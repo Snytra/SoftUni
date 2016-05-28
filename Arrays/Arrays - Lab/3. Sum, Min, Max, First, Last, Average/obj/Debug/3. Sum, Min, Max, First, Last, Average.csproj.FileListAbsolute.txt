@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\3. Sum, Min, Max, First, Last, Average\bin\Debug\_3.Sum__Min__Max__First__Last__Average.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\3. Sum, Min, Max, First, Last, Average\bin\Debug\_3.Sum__Min__Max__First__Last__Average.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\3. Sum, Min, Max, First, Last, Average\bin\Debug\_3.Sum__Min__Max__First__Last__Average.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\3. Sum, Min, Max, First, Last, Average\obj\Debug\3. Sum, Min, Max, First, Last, Average.csprojResolveAssemblyReference.cache
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\3. Sum, Min, Max, First, Last, Average\obj\Debug\_3.Sum__Min__Max__First__Last__Average.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\3. Sum, Min, Max, First, Last, Average\obj\Debug\_3.Sum__Min__Max__First__Last__Average.pdb

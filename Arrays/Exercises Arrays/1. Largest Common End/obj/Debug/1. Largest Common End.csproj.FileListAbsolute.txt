@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Arrays\1. Largest Common End\bin\Debug\_1.Largest_Common_End.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Arrays\1. Largest Common End\bin\Debug\_1.Largest_Common_End.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Arrays\1. Largest Common End\bin\Debug\_1.Largest_Common_End.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Arrays\1. Largest Common End\obj\Debug\1. Largest Common End.csprojResolveAssemblyReference.cache
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Arrays\1. Largest Common End\obj\Debug\_1.Largest_Common_End.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Arrays\1. Largest Common End\obj\Debug\_1.Largest_Common_End.pdb

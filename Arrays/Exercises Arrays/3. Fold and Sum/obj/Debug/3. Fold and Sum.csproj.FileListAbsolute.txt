@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Arrays\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Arrays\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Arrays\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Arrays\3. Fold and Sum\obj\Debug\3. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Arrays\3. Fold and Sum\obj\Debug\_3.Fold_and_Sum.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Arrays\3. Fold and Sum\obj\Debug\_3.Fold_and_Sum.pdb

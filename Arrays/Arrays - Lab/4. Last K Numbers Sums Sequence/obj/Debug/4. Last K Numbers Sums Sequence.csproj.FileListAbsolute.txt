@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Arrays - Lab\4. Last K Numbers Sums Sequence\bin\Debug\_4.Last_K_Numbers_Sums_Sequence.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\4. Last K Numbers Sums Sequence\bin\Debug\_4.Last_K_Numbers_Sums_Sequence.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\4. Last K Numbers Sums Sequence\bin\Debug\_4.Last_K_Numbers_Sums_Sequence.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\4. Last K Numbers Sums Sequence\obj\Debug\4. Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\4. Last K Numbers Sums Sequence\obj\Debug\_4.Last_K_Numbers_Sums_Sequence.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\4. Last K Numbers Sums Sequence\obj\Debug\_4.Last_K_Numbers_Sums_Sequence.pdb
