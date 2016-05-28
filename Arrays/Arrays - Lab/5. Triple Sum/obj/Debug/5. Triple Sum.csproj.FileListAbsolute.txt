@@ -4,3 +4,6 @@ C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\5. Triple Sum
 C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\5. Triple Sum\obj\Debug\5. Triple Sum.csprojResolveAssemblyReference.cache
 C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\5. Triple Sum\obj\Debug\_5.Triple_Sum.exe
 C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Arrays - Lab\5. Triple Sum\obj\Debug\_5.Triple_Sum.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\5. Triple Sum\bin\Debug\_5.Triple_Sum.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\5. Triple Sum\obj\Debug\_5.Triple_Sum.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\5. Triple Sum\obj\Debug\_5.Triple_Sum.pdb
