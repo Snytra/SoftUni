@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\10. Extract Middle 1, 2 or 3 Elements\bin\Debug\_10.Extract_Middle_1__2_or_3_Elements.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\10. Extract Middle 1, 2 or 3 Elements\bin\Debug\_10.Extract_Middle_1__2_or_3_Elements.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\10. Extract Middle 1, 2 or 3 Elements\bin\Debug\_10.Extract_Middle_1__2_or_3_Elements.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\10. Extract Middle 1, 2 or 3 Elements\obj\Debug\01. Extract Middle 1, 2 or 3 Elements.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\10. Extract Middle 1, 2 or 3 Elements\obj\Debug\_10.Extract_Middle_1__2_or_3_Elements.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Arrays - Lab\10. Extract Middle 1, 2 or 3 Elements\obj\Debug\_10.Extract_Middle_1__2_or_3_Elements.pdb
