@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\bin\Debug\_4.Sieve_of_Eratosthenes.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\bin\Debug\_4.Sieve_of_Eratosthenes.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\bin\Debug\_4.Sieve_of_Eratosthenes.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\4. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\_4.Sieve_of_Eratosthenes.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\_4.Sieve_of_Eratosthenes.pdb
