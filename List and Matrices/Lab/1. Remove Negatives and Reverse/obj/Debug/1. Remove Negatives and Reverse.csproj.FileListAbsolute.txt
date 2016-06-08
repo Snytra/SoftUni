@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\1. Remove Negatives and Reverse\bin\Debug\_1.Remove_Negatives_and_Reverse.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\1. Remove Negatives and Reverse\bin\Debug\_1.Remove_Negatives_and_Reverse.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\1. Remove Negatives and Reverse\bin\Debug\_1.Remove_Negatives_and_Reverse.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\1. Remove Negatives and Reverse\obj\Debug\1. Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\1. Remove Negatives and Reverse\obj\Debug\_1.Remove_Negatives_and_Reverse.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\1. Remove Negatives and Reverse\obj\Debug\_1.Remove_Negatives_and_Reverse.pdb

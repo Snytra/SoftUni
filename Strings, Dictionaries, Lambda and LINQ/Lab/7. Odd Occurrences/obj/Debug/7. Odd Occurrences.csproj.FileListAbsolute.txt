@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\7. Odd Occurrences\bin\Debug\_7.Odd_Occurrences.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\7. Odd Occurrences\bin\Debug\_7.Odd_Occurrences.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\7. Odd Occurrences\bin\Debug\_7.Odd_Occurrences.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\7. Odd Occurrences\obj\Debug\7. Odd Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\7. Odd Occurrences\obj\Debug\_7.Odd_Occurrences.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\7. Odd Occurrences\obj\Debug\_7.Odd_Occurrences.pdb

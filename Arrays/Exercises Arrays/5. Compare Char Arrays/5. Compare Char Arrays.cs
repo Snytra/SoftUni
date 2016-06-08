@@ -4,31 +4,30 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _5.Compare_Char_Arrays
+namespace _05.CompareCharArrays
 {
     class Program
     {
         static void Main(string[] args)
         {
             char[] arr = Console.ReadLine().Split(' ').Select(char.Parse).ToArray();
+
             char[] arr2 = Console.ReadLine().Split(' ').Select(char.Parse).ToArray();
-            Console.WriteLine(String.Join(" ",)
-        }
-        static void CompareChar(char [] arr,char[] arr2)
-        {
-            int min = Math.Min(arr.Length, arr2.Length);
-            List<char> az = new List<char>();
-            for (int i = 0; i < min; i++)
+
+            string firstarray = new string(arr);
+            string secondarray= new string(arr2);
+            int c = string.Compare(firstarray, secondarray);
+
+            if (c == -1)
             {
-                     if (arr[i] > arr2 [i])
-                 {
-                        
-                    }
-                }
+                Console.WriteLine(String.Join("",arr));
+                Console.WriteLine(String.Join("", arr2));
             }
-            
-            
-            
+            else
+            {
+                Console.WriteLine(String.Join("", arr2));
+                Console.WriteLine(String.Join("", arr));
+            }
         }
     }
 }

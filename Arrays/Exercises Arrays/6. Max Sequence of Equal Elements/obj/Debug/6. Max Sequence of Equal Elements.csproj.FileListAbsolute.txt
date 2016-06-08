@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\6. Max Sequence of Equal Elements\bin\Debug\_6.Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\6. Max Sequence of Equal Elements\bin\Debug\_6.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\6. Max Sequence of Equal Elements\bin\Debug\_6.Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\6. Max Sequence of Equal Elements\obj\Debug\6. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\6. Max Sequence of Equal Elements\obj\Debug\_6.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\Exercises Arrays\6. Max Sequence of Equal Elements\obj\Debug\_6.Max_Sequence_of_Equal_Elements.pdb

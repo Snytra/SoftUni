@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\3. Print a Receipt\bin\Debug\_3.Print_a_Receipt.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\3. Print a Receipt\bin\Debug\_3.Print_a_Receipt.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\3. Print a Receipt\bin\Debug\_3.Print_a_Receipt.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\3. Print a Receipt\obj\Debug\3. Print a Receipt.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\3. Print a Receipt\obj\Debug\_3.Print_a_Receipt.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\3. Print a Receipt\obj\Debug\_3.Print_a_Receipt.pdb

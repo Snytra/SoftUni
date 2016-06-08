@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Lists and Matrices\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Lists and Matrices\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Lists and Matrices\4. Split by Word Casing\obj\Debug\4. Split by Word Casing.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Lists and Matrices\4. Split by Word Casing\obj\Debug\_4.Split_by_Word_Casing.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Exercises Lists and Matrices\4. Split by Word Casing\obj\Debug\_4.Split_by_Word_Casing.pdb

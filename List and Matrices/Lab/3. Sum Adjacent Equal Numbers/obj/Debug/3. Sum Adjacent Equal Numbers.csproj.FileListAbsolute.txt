@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\3. Sum Adjacent Equal Numbers\obj\Debug\3. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Exercises Lists and Matrices\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
