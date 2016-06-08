@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\10. Fold and Sum\bin\Debug\_10.Fold_and_Sum.exe.config
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\10. Fold and Sum\bin\Debug\_10.Fold_and_Sum.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\10. Fold and Sum\bin\Debug\_10.Fold_and_Sum.pdb
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\10. Fold and Sum\obj\Debug\10. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\10. Fold and Sum\obj\Debug\_10.Fold_and_Sum.exe
+C:\Users\Lubaka\Documents\Visual Studio 2015\Projects\Strings, Dictionaries, Lambda and LINQ\10. Fold and Sum\obj\Debug\_10.Fold_and_Sum.pdb
