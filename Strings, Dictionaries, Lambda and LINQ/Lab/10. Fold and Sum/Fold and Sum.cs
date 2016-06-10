@@ -14,7 +14,7 @@ namespace _10.Fold_and_Sum
   .Split(' ').Select(int.Parse).ToArray();
             int k = arr.Length / 4;
             var row1left = arr.Take(k).Reverse();
-            var row1right = arr.Reverse().Take(k);
+            var row1right = arr.Take(k).Reverse();
             int[] row1 = row1left.Concat(row1right).ToArray();
             int[] row2 = arr.Skip(k).Take(2 * k).ToArray();
             var sumArr =

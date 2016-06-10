@@ -1,0 +1,6 @@
+c:\users\lubaka\documents\visual studio 2015\Projects\Exam-Prep-2\01. SoftUni Airline\bin\Debug\_01.SoftUni_Airline.exe.config
+c:\users\lubaka\documents\visual studio 2015\Projects\Exam-Prep-2\01. SoftUni Airline\bin\Debug\_01.SoftUni_Airline.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Exam-Prep-2\01. SoftUni Airline\bin\Debug\_01.SoftUni_Airline.pdb
+c:\users\lubaka\documents\visual studio 2015\Projects\Exam-Prep-2\01. SoftUni Airline\obj\Debug\01. SoftUni Airline.csprojResolveAssemblyReference.cache
+c:\users\lubaka\documents\visual studio 2015\Projects\Exam-Prep-2\01. SoftUni Airline\obj\Debug\_01.SoftUni_Airline.exe
+c:\users\lubaka\documents\visual studio 2015\Projects\Exam-Prep-2\01. SoftUni Airline\obj\Debug\_01.SoftUni_Airline.pdb
