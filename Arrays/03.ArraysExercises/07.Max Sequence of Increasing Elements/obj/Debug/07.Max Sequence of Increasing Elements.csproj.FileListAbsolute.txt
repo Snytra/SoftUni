@@ -1,0 +1,6 @@
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\03.ArraysExercises\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.exe.config
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\03.ArraysExercises\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\03.ArraysExercises\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.pdb
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\03.ArraysExercises\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.csprojResolveAssemblyReference.cache
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\03.ArraysExercises\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.exe
+C:\Users\Lubaka\Documents\GitHub\SoftUni\Arrays\03.ArraysExercises\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.pdb

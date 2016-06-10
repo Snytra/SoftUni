@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Largest Common End", "1. Largest Common End\1. Largest Common End.csproj", "{93B04437-26F0-43B7-A61E-476E8663E073}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Largest Common End", "1. Largest Common End\01. Largest Common End.csproj", "{93B04437-26F0-43B7-A61E-476E8663E073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Rotate and Sum", "2. Rotate and Sum\2. Rotate and Sum.csproj", "{3E819E37-BD9A-4434-825B-7FCB71828DBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rotate and Sum", "2. Rotate and Sum\02. Rotate and Sum.csproj", "{3E819E37-BD9A-4434-825B-7FCB71828DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Fold and Sum", "3. Fold and Sum\3. Fold and Sum.csproj", "{E1A75DA7-24EB-4B7F-9824-7AA05A9BE618}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Fold and Sum", "3. Fold and Sum\03. Fold and Sum.csproj", "{E1A75DA7-24EB-4B7F-9824-7AA05A9BE618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Compare Char Arrays", "5. Compare Char Arrays\5. Compare Char Arrays.csproj", "{7CF791B6-8076-42E2-B38F-1CF138042A19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Compare Char Arrays", "5. Compare Char Arrays\05. Compare Char Arrays.csproj", "{7CF791B6-8076-42E2-B38F-1CF138042A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Sieve of Eratosthenes", "4. Sieve of Eratosthenes\4. Sieve of Eratosthenes.csproj", "{057C5887-CE38-464B-956D-BE508810723C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sieve of Eratosthenes", "4. Sieve of Eratosthenes\04. Sieve of Eratosthenes.csproj", "{057C5887-CE38-464B-956D-BE508810723C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Max Sequence of Equal Elements", "6. Max Sequence of Equal Elements\6. Max Sequence of Equal Elements.csproj", "{9B57B815-F573-456F-871B-E807048CFB73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Max Sequence of Equal Elements", "6. Max Sequence of Equal Elements\06. Max Sequence of Equal Elements.csproj", "{9B57B815-F573-456F-871B-E807048CFB73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
